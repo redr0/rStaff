@@ -1,0 +1,6 @@
+name: StaffMode
+version: ${project.version}
+main: us.rojo.staffmode.StaffModePlugin
+api-version: 1.16
+authors: [ R0JO ]
+softdepend: [WorldEdit]
